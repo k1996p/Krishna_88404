@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.assignment.ecomapp.test.modal.ProductDaoTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 1, Skipped: 1, Time elapsed: 0.033 s <<< FAILURE! - in com.assignment.ecomapp.test.modal.ProductDaoTest
+testFindOne  Time elapsed: 0.018 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.assignment.ecomapp.test.modal.ProductDaoTest.testFindOne(ProductDaoTest.java:48)
+
