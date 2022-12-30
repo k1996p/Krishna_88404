@@ -7,6 +7,6 @@ ______________________________
 capston project - Ecomapp12
 _______________________________
 week2 
-assignment 1- Ecomapp14
+assignment 1- Ecomapp15
 _____________________________
 assignment 2- EcommerceOTO
